@@ -51,7 +51,6 @@ For products and orders is not required to save the data in a Database, keep the
 # REPO
   - Create a public repository in your github account, and upload the test.
   - Place a README.MD, with instructions.
-  - Mail url`s repo to matheus@mxsolucoes.com.br
 
 # DEAD LINE
   - Now() + 1 week
